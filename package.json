@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "scheme-interpreter",
+  "version": "1.0.0",
+  "description": "Scheme Interpreter",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "Daijiro Wachi"
+}
