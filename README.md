@@ -18,7 +18,7 @@ Node.js file:
 const fs = require('fs')
 const scheme = require('scheme-interpreter')
 
-const file = fs.readFileSync('./main.scheme', 'utf8')
+const file = fs.readFileSync('./main.scm', 'utf8')
 scheme(file)
 // => 3
 ```
